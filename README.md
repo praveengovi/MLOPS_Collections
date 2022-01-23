@@ -2,6 +2,4 @@
 
 
 
-1. MLOPS Toys
-2. 
-https://mlops.toys/
+1. MLOPS Toys -> https://mlops.toys/
