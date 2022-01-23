@@ -4,7 +4,7 @@
 
 1. MLOPS Toys -> https://mlops.toys/
 
-
+2. MLOPS vs DevOPS vs AIOPS - https://arshren.medium.com/difference-between-devops-mlops-and-aiops-ad5bcac185e9
 
 
 
